@@ -24,6 +24,8 @@ WellnessConnect is an intelligent chatbot designed to assist users with mental h
 - Python 3.x (for emotion detection backend)
 - Git
 
+Access the site: https://wellnessconnect-hazel.vercel.app/
+
 ### Frontend
 
 ```bash
